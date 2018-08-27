@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.yhy.rabbitmq</groupId>
-	<artifactId>rabbit-mq-hello</artifactId>
+	<artifactId>rabbit-mq-direct-consumer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>rabbit-mq-hello</name>
+	<name>rabbit-mq-direct-consumer</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
